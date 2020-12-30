@@ -1,0 +1,20 @@
+#homepage-banner{
+    width: 100%;
+}
+
+.centered-heading{
+    position: absolute;
+    weight: bold;
+    top: 35%;
+    left: 20%;
+    color: white;
+    font-size: 3.5em;
+}
+.centered{
+    position: absolute;
+    weight: bold;
+    top: 45%;
+    left: 30%;
+    color: white;
+    font-size: 2em;
+}
