@@ -13,3 +13,9 @@ Seattle’s Safety Radar Is a web application that provides users with safety da
 
 It is designed for Seattle residents, business owners and visitors, who are unhappy with current recommendations services which do not include safety information for neighborhoods or places to live, visit or start a business.
 
+## Features/capabilities
+- Users can report safety-related events.
+- Users can give ranking and review about the safety of Seattle’s neighborhoods.
+- Users can search by neighborhood and type of safety event, to get a report of the most/least frequent events in the searched area.
+- Get recommendations of safe or avoidable zones based on user location.
+
