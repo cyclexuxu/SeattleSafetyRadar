@@ -28,6 +28,6 @@ It is designed for Seattle residents, business owners and visitors, who are unha
 ## Homepage
 
 <p align="left">
-  <img height="420" width="550" src="sc/sc0.png"/>
+  <img height="420" width="600" src="sc/sc0.png"/>
 </p>
 
