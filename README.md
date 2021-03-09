@@ -20,10 +20,14 @@ It is designed for Seattle residents, business owners and visitors, who are unha
 - Get recommendations of safe or avoidable zones based on user location.
 
 ## Data Sources
-- SPD Crime Data: 2008 - Present: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5
-- Seattle Real Time Fire 911 Calls: https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj
-- Code Complaints and Violations: https://data.seattle.gov/Community/Code-Complaints-and-Violations/ez4a-iug7
-- SPD Officer Involved Shooting (OIS) Data: https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm
+- SPD Crime Data: 2008 - Present:
+  - https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5
+- Seattle Real Time Fire 911 Calls:
+  - https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj
+- Code Complaints and Violations:
+  - https://data.seattle.gov/Community/Code-Complaints-and-Violations/ez4a-iug7
+- SPD Officer Involved Shooting (OIS) Data:
+-  - https://data.seattle.gov/Public-Safety/SPD-Officer-Involved-Shooting-OIS-Data/mg5r-efcm
 
 ## Homepage
 
